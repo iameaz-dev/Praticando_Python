@@ -1,0 +1,2 @@
+Diretório criado localmente com o intuito de praticar os conteúdos vistos no módulo 02 do Bootcamp Santander - Ciências de Dados com Python, da DIO.
+Conforme eu for estudando mais conteúdos, irei atualizando este repositório no GitHub, onde irá ficar disponível no modo público, para que sirva como parte do meu portfólio da área de Ciência de Dados e Programação.
